@@ -1,0 +1,9 @@
+git:used to control
+github:it is a server
+repository:place where we store data
+
+commands:
+    ls : to list files in the folder
+    git init :  .git will automatically created which is hidden
+    ls -a : used to see invisible folders
+   git status:used to find the current status of the working repository
